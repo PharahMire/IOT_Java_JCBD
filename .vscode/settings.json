@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\augus\\OneDrive - ESTIA\\Cours\\Ingé2AS1\\POO\\TP_JDBC\\mysql-connector-java-5.1.40-bin.jar",
+        "c:\\Users\\augus\\Downloads\\mysql-connector-java-5.1.40-bin.jar"
+    ]
+}
